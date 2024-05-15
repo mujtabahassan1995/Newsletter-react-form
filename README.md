@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ((https://mujtabahassan1995.github.io/Newsletter-react-form/)
+- Solution URL: (https://github.com/mujtabahassan1995/Newsletter-react-form)
+- Live Site URL: (https://mujtabahassan1995.github.io/Newsletter-react-form/)
 
 ## My process
 
